@@ -32,8 +32,6 @@ I'm currently working at AWAN infotech. with 3+ years of experience in Cloud Dev
 <h1 align="center">Hi 👋, I'm Mohan Raju K</h1>
 <h3 align="center">A passionate Devops Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan6451&label=Profile%20views&color=0e75b6&style=flat" alt="mohan6451" /> </p>
-
 - 🔭 I’m currently working at **AWAN InfoTech**
 
 - 📫 How to reach me **mohankandregula1@gmail.com**
