@@ -1,12 +1,11 @@
 ![banner](banner2.gif)
 
-# 👋 Hi, I'm Mohan Raju Kandregula
 
 🚀 **SRE | Cloud & DevOps Engineer**
 ☁️ Kubernetes | CI/CD | Terraform | Observability
 📍 Chennai, India
 📧 [mohankandregula1@gmail.com](mailto:mohankandregula1@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/mohanrajuk) | [GitHub](https://github.com/mohan6451)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohanrajuk)
 
 ---
 
@@ -27,10 +26,10 @@ I specialize in:
 
 ## ⚙️ Tech Stack
 
-**Cloud:** AWS, Azure
-**Containers:** Docker, Kubernetes (AKS)
-**IaC:** Terraform, ARM
-**CI/CD:** Jenkins, GitHub Actions, Azure DevOps
+* **Cloud:** AWS, Azure
+* **Containers:** Docker, Kubernetes (AKS)
+* **IaC:** Terraform
+* **CI/CD:** Jenkins, GitHub Actions, Azure DevOps
 **Monitoring:** Datadog, New Relic
 **Automation:** Python, Shell, Ansible
 **Security:** SSO (SAML, OAuth)
