@@ -55,9 +55,9 @@ I specialize in:
 * **IaC:** Terraform
 * **CI/CD:** Jenkins, GitHub Actions, Azure DevOps
 * **Monitoring:** Datadog, New Relic
-* **Automation:** Python, Shell, Ansible
+* **Automation:** Python, Shell
 * **Security:** SSO (SAML, OAuth)
-* **Others:** Git, Linux, Agile, ITSM
+* **Others:** Git, Linux, Ansible, Agile, ITSM
 
 ---
 
