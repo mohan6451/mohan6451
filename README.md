@@ -1,4 +1,4 @@
-![banner](banner2.mp4)
+![banner](banner2.gif)
 
 # 👋 Hi, I'm Mohan Raju Kandregula
 
