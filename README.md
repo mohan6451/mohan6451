@@ -3,6 +3,14 @@
 <!-- Dynamic header banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:2E75B6&height=200&section=header&text=Mohan%20Raju%20Kandregula&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Operations%20%26%20SRE%20Engineer&descAlignY=58&descSize=18&descColor=7eb8f7&animation=fadeIn" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mohan+Raju+Kandregula;Cloud+Operation+Engineer)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mohan+Raju+Kandregula;Cloud+Operation+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+
+
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=2E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=☁️+Managing+25%2B+AKS+Clusters+in+Production;📉+Reduced+MTTR+by+40%25+%7C+Cut+false+alerts+by+50%25;🔍+Datadog+%7C+New+Relic+%7C+Kubernetes+%7C+Azure" alt="Typing SVG" />
@@ -240,7 +248,6 @@ background:   Mechanical Engineering → Defence R&D (DRDO) → Cloud & SRE
 
 ```
 🏗️  Terraform          →  IaC for production infra provisioning
-💥  Chaos Engineering  →  LitmusChaos / Gremlin for resilience testing
 ☸️  CKA                →  Certified Kubernetes Administrator
 🐍  Python Automation  →  Advanced SRE scripting & tooling
 ```
@@ -249,7 +256,7 @@ background:   Mechanical Engineering → Defence R&D (DRDO) → Cloud & SRE
 
 ## 🎯 What I'm Looking For
 
-> I'm actively exploring **SRE**, **Cloud Operations**, and **Platform Engineering** roles where I can take deeper ownership of production reliability — from infrastructure provisioning to SLO governance to chaos engineering. I thrive in environments where reliability is a first-class engineering discipline.
+> I'm actively exploring **DevOps**, **SRE**, **Cloud Operations**, and **Platform Engineering** roles where I can take deeper ownership of production reliability — from infrastructure provisioning to SLO governance to chaos engineering. I thrive in environments where reliability is a first-class engineering discipline.
 
 ---
 
