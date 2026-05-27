@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Dynamic header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:2E75B6&height=200&section=header&text=Mohan%20Raju%20Kandregula&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Operations%20%26%20SRE%20Engineer&descAlignY=58&descSize=18&descColor=7eb8f7&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a3a5c,100:2E75B6&height=200&section=header&text=Mohan%20Raju%20Kandregula&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Operations%20|%20SRE%20Engineer&descAlignY=58&descSize=18&descColor=7eb8f7&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Mohan+Raju+Kandregula;Cloud+Operation+Engineer)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mohan+Raju+Kandregula;Cloud+Operation+Engineer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mohan+Raju+Kandregula;Cloud+Operation+Engineer;☁️+Managing+25%2B+AKS+Clusters+in+Production;📉+Reduced+MTTR+by+40%25+%7C+Cut+false+alerts+by+50%25;🔍+Datadog+%7C+New+Relic+%7C+Kubernetes+%7C+Azure&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 
