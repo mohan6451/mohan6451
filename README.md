@@ -109,11 +109,12 @@ target      : SRE | Platform Engineering | Cloud Ops
 <img src="https://img.shields.io/badge/LogicMonitor-New_Relic_Migration-3a2a0a?style=flat-square"/><br/>
 <sub>Solo engineer · zero coverage gaps</sub>
 </td>
-<td align="center" width="220">
+<!-- <td align="center" width="220">
 <img src="https://img.shields.io/badge/SECURITY_INCIDENTS-ZERO-D32F2F?style=for-the-badge&logoColor=white"/><br/><br/>
 <img src="https://img.shields.io/badge/RBAC_%2B_KeyVault_%2B_TLS-Enforced-3a0a0a?style=flat-square"/><br/>
 <sub>Zero incidents across production</sub>
 </td>
+-->
 </tr>
 </table>
 
@@ -233,7 +234,7 @@ target      : SRE | Platform Engineering | Cloud Ops
 <summary><b>🔷 Cherwell — LogicMonitor to New Relic Migration</b> &nbsp;|&nbsp; <code>New Relic</code> <code>NRQL</code> <code>PowerShell</code> <code>Windows Server</code></summary>
 <br/>
 
-> Solo engineer owning full monitoring platform migration
+> Owning full monitoring platform migration
 
 | Area | Achievement |
 |---|---|
@@ -281,7 +282,7 @@ target      : SRE | Platform Engineering | Cloud Ops
   CLOUD CONSULTANT — OBSERVABILITY
   Awan Infotech → Cherwell / CSM
   New Relic · NRQL · LogicMonitor
-  1000+ VMs · Solo migration engineer
+  1000+ VMs · Migration engineer
 
   2019 Mar ──────────────── 2020 Aug
   CAD ENGINEER — DEFENCE R&D
@@ -304,7 +305,7 @@ target      : SRE | Platform Engineering | Cloud Ops
 <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/><br/>
 <b>AZ-104</b><br/>
 Azure Administrator Associate<br/>
-<sub>Certified 2022 · Renewal in progress</sub>
+<sub>Certified 2022 </sub>
 </td>
 <td align="center" width="280">
 <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/><br/>
@@ -389,6 +390,7 @@ Certified Kubernetes Administrator<br/>
 
 <br/>
 
+![DevOps](https://img.shields.io/badge/Devops_Engineer-0D1117?style=for-the-badge&logo=statuspage&logoColor=white)
 ![SRE](https://img.shields.io/badge/Site_Reliability_Engineer-0D1117?style=for-the-badge&logo=statuspage&logoColor=white)
 ![Cloud Ops](https://img.shields.io/badge/Cloud_Operations_Engineer-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Platform Eng](https://img.shields.io/badge/Platform_Engineer-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -407,6 +409,6 @@ Certified Kubernetes Administrator<br/>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,50:1a3a5c,100:0D1117&height=130&section=footer&text=Available+for+SRE+%7C+Cloud+Ops+%7C+Platform+Engineering&fontSize=16&fontColor=7eb8f7&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E75B6,50:1a3a5c,100:0D1117&height=130&section=footer&text=Available+for+SRE+%7C+DevOps+%7C+Cloud+Ops+%7C+Platform+Engineering&fontSize=16&fontColor=7eb8f7&fontAlignY=65&animation=fadeIn" />
 
 </div>
