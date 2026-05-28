@@ -331,10 +331,10 @@ Certified Kubernetes Administrator<br/>
 ## 📈 `$ github --stats`
 
 <div align="center">
-
+<!--
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohan6451&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=2E75B6&icon_color=2E75B6&text_color=ffffff&bg_color=0D1117" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohan6451&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=2E75B6&text_color=ffffff&bg_color=0D1117" />
-
+-->
 <br/><br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mohan6451&theme=tokyonight&hide_border=true&ring=2E75B6&fire=FF6B35&currStreakLabel=2E75B6&background=0D1117)
