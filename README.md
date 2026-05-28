@@ -107,7 +107,7 @@ target      : SRE | Platform Engineering | Cloud Ops
 <td align="center" width="220">
 <img src="https://img.shields.io/badge/VMs_MONITORED-1%2C000%2B-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/><br/><br/>
 <img src="https://img.shields.io/badge/LogicMonitor-New_Relic_Migration-3a2a0a?style=flat-square"/><br/>
-<sub>Solo engineer · zero coverage gaps</sub>
+<sub> Zero coverage gaps</sub>
 </td>
 <!-- <td align="center" width="220">
 <img src="https://img.shields.io/badge/SECURITY_INCIDENTS-ZERO-D32F2F?style=for-the-badge&logoColor=white"/><br/><br/>
@@ -206,10 +206,9 @@ target      : SRE | Platform Engineering | Cloud Ops
 |---|---|
 | Kubernetes Ops | Managed 25+ AKS clusters, 1,000+ containers — pod debug, scaling, RBAC |
 | Incident Management | P1/P2 ownership within SLA — **MTTR reduced 40%** |
-| Observability | Datadog + New Relic SLO dashboards — **alert noise cut 50%** |
-| Security | RBAC, SSL/TLS rotation, Key Vault — **zero security incidents** |
+| Observability | New Relic SLO dashboards — **alert noise cut 50%** |
+| Security | SSL/TLS rotation, Key Vault — **zero security incidents** |
 | CI/CD | Zero-downtime deployments across dev, staging, prod via Azure DevOps |
-| Documentation | 10+ runbooks and SOPs — reduced onboarding time significantly |
 
 </details>
 
@@ -224,8 +223,8 @@ target      : SRE | Platform Engineering | Cloud Ops
 | Area | Achievement |
 |---|---|
 | APM & Tracing | Datadog APM with distributed tracing + SLO dashboards |
-| Stateful Workloads | PostgreSQL + MongoDB on StatefulSets with Kubernetes Secrets |
-| Alert Engineering | Dynamic baselines + composite rules — **~50% false-positive reduction** |
+| Custom Dashboard build | All dashboards rebuilt in Datadog from scratch |
+| Alert Engineering | Dynamic baselines + composite rules 
 
 </details>
 
@@ -235,14 +234,16 @@ target      : SRE | Platform Engineering | Cloud Ops
 <summary><b>🔷 Cherwell — LogicMonitor to New Relic Migration</b> &nbsp;|&nbsp; <code>New Relic</code> <code>NRQL</code> <code>PowerShell</code> <code>Windows Server</code></summary>
 <br/>
 
-> Owning full monitoring platform migration
+> Owning Monthly Windows Patching, Maintaining Servers and troubleshoot 
 
 | Area | Achievement |
 |---|---|
-| Migration Scope | 1,000+ Windows VMs — coverage mapping, parallel run, cutover |
-| Dashboard Rebuild | All dashboards rebuilt in NRQL from scratch |
-| Automation | PowerShell pre-maintenance scripts — **40% manual effort saved** |
-| Process | Region-by-region cutover — zero monitoring gaps |
+| Maintenance | 1,000+ Windows VMs |
+| Automation | PowerShell scripts — **40% manual effort saved** |
+| Patching | Taking ownership of Monthly Maintenance |
+| Documentation | 10+ runbooks and SOPs — reduced onboarding time significantly |
+| Migration scope | Owning Monitoring Platform Migration from LogicMonitor to NerRelic |
+
 
 </details>
 
@@ -257,8 +258,8 @@ target      : SRE | Platform Engineering | Cloud Ops
 | Area | Achievement |
 |---|---|
 | Platforms Unified | 6 enterprise platforms on SAML/OAuth SSO |
-| Technical Work | SP-IdP metadata exchange, cert thumbprint validation, attribute mapping |
 | Outcome | Zero disruption · Improved enterprise security posture |
+| Documentation | SOPs — Helps to understand and troubleshoot in case |
 
 </details>
 
