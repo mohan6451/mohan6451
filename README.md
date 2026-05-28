@@ -346,6 +346,44 @@ Certified Kubernetes Administrator<br/>
 
 ---
 
+---
+
+<!-- GITHUB STATS -->
+## 📈 `$ github --stats`
+
+<div align="center">
+
+<!-- ✅ RELIABLE: github-stats.pretto.fr — self-hosted, always up -->
+<a href="https://github.com/mohan6451">
+  <img height="175" src="https://github-stats.pretto.fr/api?username=mohan6451&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E75B6&icon_color=7eb8f7&text_color=c9d1d9&bg_color=0D1117" />
+</a>
+&nbsp;
+<!-- ✅ RELIABLE: github-readme-stats on render.com — alternative host -->
+<a href="https://github.com/mohan6451">
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohan6451&layout=compact&theme=tokyonight&hide_border=true&title_color=2E75B6&text_color=c9d1d9&bg_color=0D1117&langs_count=8" />
+</a>
+
+<br/><br/>
+
+<!-- ✅ RELIABLE: streak-stats.demolab.com — maintained independently -->
+<a href="https://github.com/mohan6451">
+  <img src="https://streak-stats.demolab.com?user=mohan6451&theme=tokyonight-duo&hide_border=true&ring=2E75B6&fire=FF6B35&currStreakLabel=2E75B6&sideLabels=7eb8f7&dates=7eb8f7&stroke=0D1117" />
+</a>
+
+<br/><br/>
+
+<!-- ✅ RELIABLE: github-profile-summary-cards — different service entirely -->
+<a href="https://github.com/mohan6451">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohan6451&theme=tokyonight" />
+</a>
+<a href="https://github.com/mohan6451">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohan6451&theme=tokyonight&utcOffset=5.5" />
+</a>
+
+</div>
+
+---
+
 <!-- CONTRIBUTION SNAKE -->
 ## 🐍 `$ git log --contributions`
 
